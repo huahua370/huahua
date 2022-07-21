@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/huahua370/huahua/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 花花の博客
+分享網絡技術遇到的問題和解決方案
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
